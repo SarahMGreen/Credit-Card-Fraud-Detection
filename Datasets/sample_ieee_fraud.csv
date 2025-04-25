@@ -1,0 +1,101 @@
+TransactionID,TransactionDT,TransactionAmt,ProductCD,card1,card2,card3,card4,card5,card6,addr1,addr2,dist1,P_emaildomain,R_emaildomain,DeviceType,DeviceInfo,isFraud
+100000,7423388,385.71,W,1775,253,185,discover,159,debit,206,87,,aol.com,gmail.com,mobile,Android,0
+100001,7550634,247.4,W,1511,243,150,visa,277,debit,418,,20,yahoo.com,nan,desktop,iOS,0
+100002,5304572,261.84,C,1399,534,185,visa,127,debit,147,60,20,yahoo.com,gmail.com,mobile,MacOS,0
+100003,3234489,214.34,C,1653,584,150,american express,200,debit,160,60,20,gmail.com,gmail.com,desktop,Windows,1
+100004,8204212,13.68,C,1971,185,,american express,140,credit,436,,,gmail.com,gmail.com,desktop,MacOS,1
+100005,5472471,54.84,S,1882,284,150,mastercard,291,credit,125,,,hotmail.com,yahoo.com,desktop,Windows,0
+100006,5523669,16.68,W,1470,384,150,american express,254,credit,391,60,,aol.com,yahoo.com,mobile,Android,0
+100007,8404852,318.57,S,1142,561,150,discover,290,credit,356,60,,aol.com,nan,mobile,MacOS,1
+100008,5981505,157.86,C,1091,319,150,discover,244,debit,107,87,20,hotmail.com,gmail.com,desktop,iOS,0
+100009,2766891,254.78,W,1353,168,150,visa,260,debit,212,60,20,aol.com,gmail.com,desktop,Windows,0
+100010,5521373,453.88,S,1833,146,185,american express,256,credit,454,60,10,aol.com,nan,mobile,Windows,1
+100011,7019877,125.4,S,1799,596,150,mastercard,240,debit,352,,10,aol.com,gmail.com,mobile,MacOS,0
+100012,4344769,205.78,C,1726,193,150,discover,145,credit,279,60,,aol.com,gmail.com,mobile,Android,0
+100013,1103355,378.02,W,1958,337,,discover,134,debit,306,87,30,aol.com,yahoo.com,desktop,MacOS,0
+100014,2262752,115.17,C,1853,545,150,mastercard,233,credit,402,60,30,gmail.com,nan,mobile,Android,1
+100015,6664789,39.41,W,1050,599,,mastercard,181,debit,226,,20,aol.com,nan,desktop,Android,1
+100016,6743066,145.59,R,1664,552,185,discover,214,debit,155,,20,gmail.com,nan,mobile,Windows,1
+100017,7113790,81.45,H,1697,303,150,discover,296,credit,313,60,20,aol.com,nan,desktop,MacOS,0
+100018,5721339,464.92,H,1574,499,,mastercard,146,debit,113,,10,hotmail.com,yahoo.com,mobile,MacOS,0
+100019,4275709,404.25,H,1189,317,,discover,252,credit,127,87,10,yahoo.com,yahoo.com,mobile,Android,0
+100020,1084654,317.07,C,1124,573,185,visa,293,credit,177,87,20,gmail.com,gmail.com,mobile,MacOS,0
+100021,6147581,435.86,R,1149,531,150,visa,109,credit,315,60,20,aol.com,gmail.com,mobile,iOS,0
+100022,2954354,402.03,W,1313,440,150,mastercard,155,credit,485,60,20,hotmail.com,gmail.com,mobile,iOS,0
+100023,9242680,94.1,S,1569,138,,american express,129,debit,464,60,30,yahoo.com,gmail.com,desktop,MacOS,0
+100024,3428388,446.39,W,1341,199,150,mastercard,208,debit,253,,10,gmail.com,yahoo.com,mobile,MacOS,0
+100025,9916786,270.13,S,1304,388,,mastercard,104,debit,113,87,30,yahoo.com,nan,mobile,Android,0
+100026,3663046,403.91,W,1691,353,150,american express,218,credit,286,87,30,hotmail.com,yahoo.com,mobile,iOS,0
+100027,6499720,448.15,R,1681,321,,american express,132,debit,411,,20,gmail.com,gmail.com,desktop,iOS,0
+100028,7640913,159.68,S,1837,456,150,american express,217,credit,470,87,20,yahoo.com,yahoo.com,mobile,Windows,0
+100029,4416664,55.92,C,1782,122,185,visa,164,debit,106,60,,aol.com,nan,desktop,Android,0
+100030,4385659,114.74,W,1053,349,150,discover,245,debit,102,60,,gmail.com,nan,mobile,Windows,0
+100031,4385357,214.13,W,1443,109,150,visa,276,debit,210,60,30,yahoo.com,yahoo.com,mobile,iOS,0
+100032,2465689,409.19,S,1612,345,185,discover,110,credit,337,87,10,hotmail.com,yahoo.com,desktop,Android,0
+100033,1068148,430.5,C,1992,424,150,visa,184,debit,462,60,20,hotmail.com,yahoo.com,mobile,MacOS,0
+100034,2825665,4.47,C,1263,199,185,discover,125,debit,338,,20,gmail.com,gmail.com,desktop,Android,0
+100035,3745683,255.86,R,1052,389,150,visa,162,credit,373,,30,yahoo.com,yahoo.com,desktop,MacOS,0
+100036,5056518,209.29,C,1571,279,,american express,185,debit,393,87,,gmail.com,yahoo.com,mobile,MacOS,0
+100037,3669995,111.83,C,1619,322,,mastercard,158,credit,326,,10,gmail.com,yahoo.com,desktop,Android,0
+100038,5997895,60.81,C,1004,493,150,visa,126,debit,470,,,yahoo.com,nan,mobile,MacOS,0
+100039,7397986,169.47,H,1102,349,150,discover,276,credit,114,87,,yahoo.com,nan,mobile,Windows,0
+100040,2870928,471.51,R,1195,246,150,american express,260,credit,291,60,,aol.com,gmail.com,desktop,iOS,0
+100041,5155299,162.28,W,1773,541,,visa,197,debit,218,60,,yahoo.com,gmail.com,desktop,MacOS,0
+100042,7249859,259.88,S,1876,195,150,visa,204,credit,127,60,20,hotmail.com,nan,desktop,Windows,0
+100043,3305413,351.81,W,1991,356,,american express,198,credit,301,87,20,gmail.com,nan,desktop,MacOS,0
+100044,4910197,182.45,R,1883,424,185,visa,228,credit,138,,,gmail.com,nan,mobile,iOS,1
+100045,6558019,485.92,S,1349,592,,mastercard,248,credit,372,60,10,hotmail.com,yahoo.com,mobile,Windows,0
+100046,6414709,481.26,R,1046,103,,visa,154,credit,330,60,30,yahoo.com,yahoo.com,desktop,iOS,1
+100047,1271836,126.64,C,1866,115,185,mastercard,105,credit,185,87,10,hotmail.com,nan,mobile,iOS,0
+100048,4584702,249.13,S,1822,379,,mastercard,296,debit,225,60,10,hotmail.com,yahoo.com,mobile,Windows,0
+100049,8281369,151.14,C,1935,435,150,american express,194,credit,399,87,10,aol.com,yahoo.com,mobile,Windows,0
+100050,3299435,143.14,W,1819,346,150,visa,232,credit,124,,,hotmail.com,gmail.com,mobile,Windows,0
+100051,9585377,19.41,W,1655,357,,american express,201,debit,244,87,20,gmail.com,nan,desktop,Android,0
+100052,3658505,305.17,S,1268,596,150,visa,102,debit,112,87,10,hotmail.com,nan,desktop,Windows,0
+100053,2271741,251.84,S,1369,575,,visa,280,debit,311,87,,gmail.com,yahoo.com,mobile,Windows,1
+100054,4769315,26.69,R,1635,483,150,discover,122,debit,124,87,10,gmail.com,nan,desktop,Windows,0
+100055,2046797,140.04,R,1105,259,150,visa,152,debit,167,,10,gmail.com,gmail.com,desktop,Windows,0
+100056,4047262,454.22,C,1669,574,,american express,264,debit,493,,,yahoo.com,gmail.com,desktop,MacOS,0
+100057,1564685,120.54,S,1658,439,150,mastercard,182,debit,166,60,20,aol.com,gmail.com,mobile,Android,0
+100058,3879190,73.3,W,1656,251,,visa,244,credit,332,,20,gmail.com,nan,mobile,iOS,0
+100059,6596411,245.24,R,1119,495,150,discover,184,credit,208,,30,gmail.com,nan,mobile,Windows,0
+100060,2007293,492.84,R,1830,277,150,american express,177,debit,245,60,,yahoo.com,nan,desktop,MacOS,0
+100061,5774183,121.79,W,1786,262,185,visa,209,credit,210,,30,gmail.com,nan,mobile,MacOS,0
+100062,4366612,336.4,R,1603,479,185,american express,100,credit,327,87,30,hotmail.com,nan,mobile,MacOS,0
+100063,9411855,381.05,C,1057,132,,discover,150,credit,210,87,30,hotmail.com,gmail.com,desktop,iOS,0
+100064,6267180,119.58,S,1950,516,185,discover,272,debit,133,60,20,aol.com,yahoo.com,mobile,Windows,0
+100065,8807313,364.38,W,1345,544,,american express,103,debit,210,60,,gmail.com,gmail.com,mobile,Android,0
+100066,3704238,184.52,S,1740,278,185,visa,289,credit,363,60,30,yahoo.com,nan,desktop,Android,1
+100067,3630708,316.52,R,1473,526,150,mastercard,292,debit,468,87,,hotmail.com,gmail.com,desktop,MacOS,0
+100068,4494679,317.13,R,1116,200,,discover,212,credit,335,,,yahoo.com,nan,desktop,iOS,0
+100069,6517209,268.35,W,1829,367,,visa,131,credit,182,87,20,yahoo.com,nan,mobile,iOS,0
+100070,2767640,46.05,C,1790,422,150,visa,133,credit,141,60,30,hotmail.com,gmail.com,mobile,iOS,0
+100071,7723771,417.82,H,1126,164,,mastercard,191,credit,200,,30,yahoo.com,nan,mobile,Android,1
+100072,2285160,161.07,W,1392,516,,discover,194,debit,105,,,hotmail.com,yahoo.com,desktop,MacOS,0
+100073,7080526,94.07,H,1907,267,185,discover,171,debit,279,87,10,yahoo.com,nan,desktop,Windows,0
+100074,6173036,21.35,H,1640,429,,visa,138,debit,381,60,20,hotmail.com,yahoo.com,mobile,Android,0
+100075,2425472,295.86,C,1057,142,150,visa,253,credit,419,87,20,gmail.com,yahoo.com,mobile,MacOS,0
+100076,1048984,339.1,H,1633,143,185,mastercard,261,debit,325,,20,aol.com,nan,desktop,MacOS,1
+100077,7556168,9.28,H,1512,384,185,mastercard,281,credit,414,87,20,hotmail.com,gmail.com,desktop,Windows,0
+100078,2504384,256.53,C,1750,496,150,discover,217,debit,464,87,30,hotmail.com,yahoo.com,desktop,Windows,0
+100079,3230919,114.02,H,1801,111,150,american express,102,credit,328,60,30,aol.com,gmail.com,desktop,Windows,0
+100080,7940119,322.94,H,1095,194,185,discover,222,credit,476,60,10,hotmail.com,yahoo.com,mobile,iOS,1
+100081,2737095,88.01,H,1637,401,,visa,149,credit,388,,20,hotmail.com,nan,desktop,Windows,0
+100082,5780450,345.78,W,1117,485,185,discover,111,debit,249,87,20,yahoo.com,nan,mobile,MacOS,1
+100083,8469344,193.98,W,1559,352,150,american express,292,debit,376,87,,aol.com,yahoo.com,mobile,Windows,0
+100084,3109818,468.43,W,1600,598,185,mastercard,153,debit,297,87,30,gmail.com,nan,mobile,MacOS,0
+100085,3231785,69.62,C,1487,341,150,american express,232,debit,169,,20,hotmail.com,yahoo.com,desktop,Android,0
+100086,4853339,171.19,R,1236,134,185,american express,156,credit,211,,10,aol.com,nan,desktop,iOS,0
+100087,1996107,57.62,H,1884,314,,american express,244,debit,103,60,10,yahoo.com,gmail.com,desktop,Android,0
+100088,8130144,462.42,H,1896,436,185,mastercard,211,debit,449,60,30,gmail.com,nan,desktop,Android,0
+100089,5545583,438.79,C,1271,189,185,american express,146,credit,430,60,10,aol.com,gmail.com,mobile,MacOS,0
+100090,4747389,129.71,H,1188,363,150,american express,250,credit,417,87,10,gmail.com,nan,desktop,Android,0
+100091,5142807,330.33,W,1998,192,150,american express,184,credit,449,87,30,gmail.com,gmail.com,desktop,MacOS,0
+100092,8988004,408.79,R,1703,509,150,visa,241,debit,194,60,20,gmail.com,nan,mobile,Windows,0
+100093,7245035,278.05,S,1446,557,185,american express,165,credit,251,87,20,hotmail.com,gmail.com,desktop,Windows,1
+100094,4602279,265.3,H,1580,189,,mastercard,174,credit,410,60,10,hotmail.com,yahoo.com,mobile,MacOS,0
+100095,6515989,121.68,W,1789,517,150,american express,278,credit,236,,10,yahoo.com,yahoo.com,mobile,Windows,1
+100096,3121690,47.46,S,1860,214,150,american express,202,debit,346,60,20,yahoo.com,gmail.com,mobile,iOS,1
+100097,1491234,448.71,R,1246,204,185,mastercard,265,credit,486,,30,aol.com,nan,mobile,Android,0
+100098,6401218,450.31,S,1962,490,150,american express,291,debit,342,87,10,yahoo.com,gmail.com,mobile,iOS,0
+100099,7914550,316.92,W,1075,295,,mastercard,137,debit,130,60,,gmail.com,nan,mobile,Android,0
