@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Capstone
+# Credit-Card-Fraud-Detection
 Using machine learning algorithms to analyze which is more efficient in catching credit card fraud.
 
 ## Techniques Used
