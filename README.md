@@ -17,6 +17,7 @@ Using machine learning algorithms to analyze which is more efficient in catching
 - Python
 - Jupyter Notebook
 - pandas, scikit-learn, matplotlib, seaborn
+- imbalanced-learn (SMOTE)
 - Excel (for basic data cleaning/comparison)
 
 ## Goal
@@ -24,6 +25,7 @@ To compare models based on:
 - Accuracy
 - Recall
 - Precision
+- F1 Score
 
 ## My Role
 - Focused on Random Forest
@@ -71,7 +73,19 @@ To compare models based on:
 - **Attribution**: This dataset is provided by [Machine Learning Group - ULB](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) under the [DbCL v1.0 License](https://opendatacommons.org/licenses/dbcl/1-0/).
 
 ---
+## :arrow_forward: How to Run the Code
 
+1. **Install Requirements**
+   ```bash
+   pip install pandas scikit-learn seaborn matplotlib imbalanced-learn
+   
+2. **Download Datasets**
+- The datasets I've given are samples (first 100 rows) of the full datasets I used
+- If using the samples make sure you change the name of the dataset in the code to match that of the sample you downloaded (e.g. change creditcard.csv to sample_creditcard.csv)
+
+3. **Run the Code**
+   
+---   
 ### Compliance Guidelines
 
 To comply with the respective licenses of these datasets, the following modifications have been made:
