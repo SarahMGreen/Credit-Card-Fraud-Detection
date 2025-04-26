@@ -40,7 +40,23 @@ To compare models based on:
 
 ---
 
-🗂️ See the notebook/code files for full implementation.
+## 📁 Files Included
+
+**Code**
+- `FraudDetectionRF.ipynb`: The main notebook with model training and evaluation.
+  **Datasets**
+  These are small demo datasets used to run the notebook code.
+- `Sample_credit_card_transactions.csv`
+- `Sample_creditcard.csv`
+- `Sample_ieee_fraud.csv`
+- `Sample_card_transdata.csv`
+
+## ⚠️ Sample Dataset Disclaimer
+
+> **Note:** The included sample datasets are **only** for demonstration purposes. They are small samples if the full datasetss that contain both fraud and non-fraud entries, but they do **not** reflect the real distribution or complexity of actual fraud detection data.
+>
+> The purpose of the samples are to show that the code functions properly not to produce meaningful results. For accurate training, testing, and evaluation, use the full datasets linked bellow.
+
 
 ## Dataset Licensing and Attribution
 
@@ -80,11 +96,12 @@ To compare models based on:
    pip install pandas scikit-learn seaborn matplotlib imbalanced-learn
    
 2. **Download Datasets**
-- The datasets I've given are samples (first 100 rows) of the full datasets I used
+- The datasets I've given are samples (100 rows) of the full datasets I used
 - If using the samples make sure you change the name of the dataset in the code to match that of the sample you downloaded (e.g. change creditcard.csv to sample_creditcard.csv)
 
 3. **Run the Code**
-   
+- Uncomment the code associated with the dataset you want to analyze then run the code
+  
 ---   
 ### Compliance Guidelines
 
