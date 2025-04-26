@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Using machine learning algorithms to analyze which is more efficient in catching credit card fraud.
+Using machine learning algorithms to analyze which is more efficient in catching credit card fraud. This was part of a larger capstone project. This covers the **Random Forest** model.
 
 ## Techniques Used
 - Random Forest (my focus)
@@ -11,7 +11,6 @@ Using machine learning algorithms to analyze which is more efficient in catching
 - Credit Card Fraud
 - IEEE-CIS Fraud Detection dataset
 - Credit Card Fraud Detection
-- All datasets are from Kaggle
 
 ## Tools & Technologies
 - Python
@@ -43,9 +42,15 @@ To compare models based on:
 ## 📁 Files Included
 
 **Code**
-- `FraudDetectionRF.ipynb`: The main notebook with model training and evaluation.
-  **Datasets**
-  These are small demo datasets used to run the notebook code.
+
+The main notebook with model training and evaluation.
+
+- `FraudDetectionRF.ipynb`
+  
+**Datasets**
+
+These are small demo datasets used to run the notebook code.
+
 - `Sample_credit_card_transactions.csv`
 - `Sample_creditcard.csv`
 - `Sample_ieee_fraud.csv`
